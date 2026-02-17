@@ -1,0 +1,10 @@
+# Large media
+*.mp4
+Videos/
+public/Videos/
+
+# Other standard ignores (add your full list here)
+node_modules/
+dist/
+logs
+*.log
