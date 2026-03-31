@@ -23,11 +23,11 @@ function App() {
       <Navbar />
       <Hero />
       <Services />
-      <Portfolio />
+      {/* <Portfolio /> */}
       <Testimonials />
       <Booking />
 
-      {/* Simple footer */}
+      {/* Footer */}
       <footer className="bg-black border-t border-white/10 py-16 text-center">
         <div className="max-w-7xl mx-auto px-6">
           <div className="flex items-center justify-center gap-3 mb-6">
